@@ -3,8 +3,10 @@
 ###### This is an `<h6>` header, which is the smallest
 
 alt text, some random text to display image
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat this is alt text ](https://octodex.github.com/images/yaktocat.png)
 
-
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+step 4
+markdown list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
